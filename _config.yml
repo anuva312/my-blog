@@ -25,8 +25,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   Or Autumn as I had called myself in the title.
   Here's a place for some of my crazy as well as non-crazy yet not-so-serious thoughts:)
   I honestly have no idea about how to write a description for this blog XD...
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/anuva312/my-blog.io" # the subpath of your site, e.g. /blog
+url: "https://github.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: this_is_anuva
 github_username:  anuva312
 
